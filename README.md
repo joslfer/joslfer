@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm José. I enjoy playing the piano and I have a website: joslfer.es
+
 <!--
 **joslfer/joslfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
