@@ -1,10 +1,11 @@
 ## Hi there 👋
 
-I'm José, I'm a Physics student. I'm intereseted in science, math, phylosophy, game theory and writing (my website: https://joslfer.com). 
+I'm José, I'm a Physics student. I'm interested in science, math, philosophy, game theory and writing (my website: https://joslfer.com). 
 
 🛠️ Python (NumPy, Pandas, matplotlib) · HTML · CSS
 🔭 Currently building a portfolio of numerical algorithms: RK4 (done) 
 
+Vibecoded a tool for organizing evidence cards while debating: https://fichafuente.vercel.app
 <!--
 **joslfer/joslfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
