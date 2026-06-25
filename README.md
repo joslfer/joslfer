@@ -1,13 +1,15 @@
 ## Hi there 👋
 
-I'm José, i'm currently studying Physics.
+I'm José, I'm a Physics student. I'm intereseted in science, math, phylosophy, game theory and writing (my website: https://joslfer.com). 
+
+🛠️ Python (NumPy, Pandas, matplotlib) · HTML · CSS
+🔭 Currently building a portfolio of numerical algorithms: RK4 (done) 
 
 <!--
 **joslfer/joslfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
