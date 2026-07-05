@@ -3,7 +3,7 @@
 I'm José, I'm a Physics student. I'm interested in science, math, philosophy, game theory and writing (my website: https://joslfer.com). 
 
 🛠️ Python (NumPy, Pandas, matplotlib) · HTML · CSS
-🔭 Currently building a portfolio of numerical algorithms: RK4 (done) 
+🔭 Currently building a portfolio of numerical algorithms: RK4 (done), Linear Regression Gradient Descent (done).
 
 Vibecoded a tool for organizing evidence cards while debating: https://fichafuente.vercel.app
 <!--
