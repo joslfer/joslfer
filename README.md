@@ -3,7 +3,9 @@
 I'm José, I'm a Physics student. I'm interested in science, math, philosophy, game theory and writing (my website: https://joslfer.com). 
 
 🛠️ Python (NumPy, Pandas, matplotlib) · HTML · CSS
-🔭 Currently building a portfolio of numerical algorithms and ML: RK4 (done), Linear Regression Gradient Descent (done).
+
+🔭 Currently building a portfolio of numerical algorithms and ML: RK4 (done), Linear Regression Gradient Descent (done), Logistic Regression from scratch (done) — [pulsar classification on HTRU2](https://github.com/joslfer/ml-quest/tree/main/pulsars_htru2), 97.91% accuracy.
+
 
 Vibecoded a tool for organizing evidence cards while debating: https://fichafuente.vercel.app
 <!--
