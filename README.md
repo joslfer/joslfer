@@ -4,7 +4,14 @@ I'm José, I'm a Physics student. I'm interested in science, math, philosophy, g
 
 🛠️ Python (NumPy, Pandas, matplotlib) · HTML · CSS
 
-🔭 Currently building a portfolio of numerical algorithms and ML: RK4 (done), Linear Regression Gradient Descent (done), Logistic Regression from scratch (done) — [pulsar classification on HTRU2](https://github.com/joslfer/ml-quest/tree/main/pulsars_htru2), 97.91% accuracy.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24"/>
+
+🔭 Currently building a portfolio of numerical algorithms, machine learning and game theory:
+
+- RK4 (done)
+- Linear Regression (Gradient Descent) (done)
+- Logistic Regression from scratch (done) — [Pulsar classification on HTRU2](https://github.com/joslfer/ml-quest/tree/main/pulsars_htru2), 97.91% accuracy
+- Evolutionary Game Theory on Networks (in progress)
 
 
 Vibecoded a tool for organizing evidence cards while debating: https://fichafuente.vercel.app
