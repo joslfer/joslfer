@@ -11,7 +11,7 @@ I'm José, I'm a Physics student. I'm interested in science, math, philosophy, g
 - RK4 (done)
 - Linear Regression (Gradient Descent) (done)
 - Logistic Regression from scratch (done) — [Pulsar classification on HTRU2](https://github.com/joslfer/ml-quest/tree/main/pulsars_htru2), 97.91% accuracy
-- [Evolutionary Game Theory on Networks](https://github.com/joslfer/gamegraph) (in progress)
+- [Evolutionary Game Theory on Networks](https://github.com/joslfer/gamegraph)(done)
 
 
 Vibecoded a tool for organizing evidence cards while debating: https://fichafuente.vercel.app
