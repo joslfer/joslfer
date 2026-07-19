@@ -12,7 +12,7 @@ I'm José, I'm a Physics student. I'm interested in science, math, philosophy, g
 - Linear Regression (Gradient Descent) (done)
 - Logistic Regression from scratch (done) — [Pulsar classification on HTRU2](https://github.com/joslfer/ml-quest/tree/main/pulsars_htru2), 97.91% accuracy
 - [Evolutionary Game Theory on Networks](https://github.com/joslfer/gamegraph) (done)
-- [SQL + Python pipeline on real original weather station data (1989–2024)](https://github.com/joslfer/station-data) (in progress)
+- [SQL + Python pipeline on real original weather station data (1998–2024)](https://github.com/joslfer/station-data) (in progress)
 
 
 
