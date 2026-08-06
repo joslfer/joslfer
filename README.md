@@ -1,27 +1,24 @@
-## Hi there 👋
+## Hi there 
 
-Physics Student. Check out my website: [joslfer.com](https://joslfer.com)
+I'm José, I'm a Physics student. I'm interested in science, math, philosophy, game theory and writing (my website: https://joslfer.com). 
+I like coding and have done several projects, mainly to learn new skills that could be useful in the future. 
 
-
-🛠️ Python (NumPy, Pandas, matplotlib) · SQL · HTML · CSS 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="24"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24"/>
+<span style="font-size:1.3em">🛠️ Python</span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> · <span style="font-size:1.3em">SQL</span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="20"/> · <span style="font-size:1.3em">HTML</span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> · <span style="font-size:1.3em">CSS</span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/>
 
 
-### 📌 Featured project (data analysis)
-[**Data Analysis on real original weather station data**](https://github.com/joslfer/station-data)
+## Projects (data analysis)
+Each project has its own readme.
 
+[Data Analysis on real weather station data](https://github.com/joslfer/station-data):
 23 years of raw messy climate data, cleaned through a custom pipeline and analyzed with 19 SQL queries and cool graphs. 
 
 
 ### Other learning projects (ml, numerical methods, game theory)
 
-- RK4 (done)
-- Linear Regression (Gradient Descent) (done)
-- Logistic Regression from scratch — [Pulsar classification on HTRU2](https://github.com/joslfer/ml-quest), 97.91% accuracy.
-- [Evolutionary Game Theory on Networks](https://github.com/joslfer/gamegraph) (done)
-
-
+- [RK4](https://github.com/joslfer/metodos-numericos)
+- [Linear Regression from scratch (Gradient Descent)](https://github.com/joslfer/metodos-numericos)
+- [Logistic Regression from scratch — Pulsar classification on HTRU2](https://github.com/joslfer/ml-quest)
+- [Evolutionary Game Theory on Networks](https://github.com/joslfer/gamegraph)
 
 
 Vibecoded a tool for organizing evidence cards while debating: https://fichafuente.vercel.app
