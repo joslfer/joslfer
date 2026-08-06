@@ -6,6 +6,7 @@ I like coding and have done several projects, mainly to learn new skills that co
 <span style="font-size:20px">🛠️ Python</span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" style="vertical-align:middle"/> · <span style="font-size:20px">SQL</span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="20" style="vertical-align:middle"/> · <span style="font-size:20px">HTML</span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" style="vertical-align:middle"/> · <span style="font-size:20px">CSS</span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" style="vertical-align:middle"/>
 
 
+
 ## Projects (data analysis)
 Each project has its own readme.
 
