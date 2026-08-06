@@ -8,7 +8,6 @@ I like coding and have done several projects, mainly to learn new skills that co
 
 
 ## Projects (data analysis)
-Each project has its own readme.
 
 [Data Analysis on real weather station data](https://github.com/joslfer/station-data):
 23 years of raw messy climate data, cleaned through a custom pipeline and analyzed with 19 SQL queries and cool graphs. 
