@@ -3,6 +3,8 @@
 I'm José, I'm a Physics student. I'm interested in science, math, philosophy, game theory and writing (my website: https://joslfer.com). 
 I like coding and have done several projects, mainly to learn new skills that could be useful in the future. 
 
+Currently buiding [*Casandra*](https://github.com/joslfer/casandra), a prediction market for exam questions.
+
 <span style="font-size:20px">🛠️ Python</span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" style="vertical-align:middle"/> · <span style="font-size:20px">SQL</span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="20" style="vertical-align:middle"/> · <span style="font-size:20px">HTML</span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" style="vertical-align:middle"/> · <span style="font-size:20px">CSS</span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" style="vertical-align:middle"/>
 
 
